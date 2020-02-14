@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "hideovich",
+    "mongoUri": "mongodb+srv://hideovich:aZTPZieYnyAZImPq@cluster0-xfbzt.azure.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
